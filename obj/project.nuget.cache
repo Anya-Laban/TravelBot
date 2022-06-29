@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JyxFlPofia+Dg2nyhzb32Ovt+xB+MeWE9GFYaA1FXKSQtN74FGsGt5tgykH5JF+MY9/ZPY0ayya+QFBQtgfskA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anna\\Desktop\\Навчання КПІ\\Програмування\\Курсова\\TravelBot\\TravelBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anna\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Anna\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\Users\\Anna\\.nuget\\packages\\telegram.bot\\17.0.0\\telegram.bot.17.0.0.nupkg.sha512",
+    "C:\\Users\\Anna\\.nuget\\packages\\telegram.bot.extensions.polling\\1.0.2\\telegram.bot.extensions.polling.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
